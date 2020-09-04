@@ -5,7 +5,7 @@ const Method = require('method-override');
 const app = express()
 
 // Port
-const port = 5000 || process.env.port;
+const port = 3000 || process.env.port;
 
 //Import Routes
 const shoeRoute = require('./routes/shoeRelease');

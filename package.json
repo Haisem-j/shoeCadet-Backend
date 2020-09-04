@@ -23,7 +23,9 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "multer-gridfs-storage": "^4.2.0",
-    "stripe": "^8.91.0"
+    "nodemailer": "^6.4.11",
+    "stripe": "^8.91.0",
+    "uuid": "^8.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
